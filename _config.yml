@@ -1,5 +1,7 @@
--title: "My First Blog Post"
-date: 2022-05-10 -
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
 theme: minima
 author: Kennedy Geedey
 email: kennedy.a.geedey@outlook.com
